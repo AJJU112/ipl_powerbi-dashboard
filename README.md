@@ -16,7 +16,7 @@ An interactive Power BI dashboard that analyzes ball-by-ball IPL data to uncover
 
 ## 📸 Sample Dashboard View
 
-![Dashboard Preview](your-image-name.png)
+![Dashboard Preview]- https://github.com/AJJU112/ipl_powerbi-dashboard
 
 ---
 
